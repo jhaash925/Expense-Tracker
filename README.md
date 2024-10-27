@@ -1,7 +1,7 @@
 # Expense-Tracker
 An Expense Tracker application built with Java that helps users efficiently track their daily expenses. This simple and intuitive app lets you record, categorize, and manage your finances easily, providing you with insights into your spending habits.
 
-Table of Contents
+# Table of Contents
 Features
 Usage
 Future Enhancements
